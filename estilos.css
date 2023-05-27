@@ -1,0 +1,22 @@
+body {
+    background-color:#eee;
+    color: #a62112;
+    /*cursor: wait;*/
+}
+
+p {
+    text-align: center;
+}
+
+.verde {
+    color: green;
+}
+
+#verde {
+    background-color: green;
+    font-size:18px;
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+}
